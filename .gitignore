@@ -1,0 +1,13 @@
+*.csv
+*.pdf
+*.cbm
+artifacts/
+evidence/
+*.mp4
+*.webm
+*email-thread*
+*README.txt
+.venv/
+__pycache__/
+work/
+public_repo/
