@@ -1,0 +1,113 @@
+{
+  "checks": [
+    {
+      "check": "model health",
+      "passed": true
+    },
+    {
+      "check": "one row per input ID in sample order",
+      "passed": true
+    },
+    {
+      "check": "finite probability scores",
+      "passed": true
+    },
+    {
+      "check": "API scores case 0",
+      "passed": true
+    },
+    {
+      "check": "batch and single-record parity 0",
+      "passed": true
+    },
+    {
+      "check": "employee explanations 0",
+      "passed": true
+    },
+    {
+      "check": "API scores case 1126",
+      "passed": true
+    },
+    {
+      "check": "batch and single-record parity 1126",
+      "passed": true
+    },
+    {
+      "check": "employee explanations 1126",
+      "passed": true
+    },
+    {
+      "check": "API scores case 2251",
+      "passed": true
+    },
+    {
+      "check": "batch and single-record parity 2251",
+      "passed": true
+    },
+    {
+      "check": "employee explanations 2251",
+      "passed": true
+    },
+    {
+      "check": "untrusted text / outcome label cannot change score",
+      "passed": true
+    },
+    {
+      "check": "reject invalid input 13",
+      "passed": true
+    },
+    {
+      "check": "reject invalid input 14",
+      "passed": true
+    },
+    {
+      "check": "reject invalid input 15",
+      "passed": true
+    },
+    {
+      "check": "reject invalid input 16",
+      "passed": true
+    },
+    {
+      "check": "reject invalid input 17",
+      "passed": true
+    },
+    {
+      "check": "reject invalid input 18",
+      "passed": true
+    },
+    {
+      "check": "reject invalid input 19",
+      "passed": true
+    },
+    {
+      "check": "reject invalid input 20",
+      "passed": true
+    },
+    {
+      "check": "content type",
+      "passed": true
+    },
+    {
+      "check": "unknown references handled",
+      "passed": true
+    },
+    {
+      "check": "oversized body rejected",
+      "passed": true
+    },
+    {
+      "check": "UI serves",
+      "passed": true
+    },
+    {
+      "check": "missing model fails politely",
+      "passed": true
+    }
+  ],
+  "total_passed": 26,
+  "latency_ms_median": 1.6551000298932195,
+  "latency_ms_p95": 4.6963699394837,
+  "benchmark_n": 30,
+  "scope": "Local Flask test client including features and explanations, warm model; no network latency."
+}

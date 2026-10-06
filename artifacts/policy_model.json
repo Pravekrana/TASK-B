@@ -1,0 +1,4043 @@
+{
+  "version": "policy-bayes-v2",
+  "n": 1422,
+  "frauds": 36,
+  "partners": {
+    "SP3143": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3022": {
+      "n": 5,
+      "frauds": 0
+    },
+    "SP3365": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3153": {
+      "n": 6,
+      "frauds": 0
+    },
+    "SP3007": {
+      "n": 6,
+      "frauds": 0
+    },
+    "SP3119": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3314": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3079": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3140": {
+      "n": 5,
+      "frauds": 0
+    },
+    "SP3175": {
+      "n": 7,
+      "frauds": 0
+    },
+    "SP3322": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3189": {
+      "n": 6,
+      "frauds": 0
+    },
+    "SP3114": {
+      "n": 5,
+      "frauds": 0
+    },
+    "SP3231": {
+      "n": 6,
+      "frauds": 0
+    },
+    "SP3066": {
+      "n": 5,
+      "frauds": 0
+    },
+    "SP3308": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3029": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3288": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3183": {
+      "n": 7,
+      "frauds": 0
+    },
+    "SP3196": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3360": {
+      "n": 5,
+      "frauds": 0
+    },
+    "SP3313": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3108": {
+      "n": 5,
+      "frauds": 0
+    },
+    "SP3053": {
+      "n": 6,
+      "frauds": 0
+    },
+    "SP3368": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3157": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3069": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3106": {
+      "n": 6,
+      "frauds": 0
+    },
+    "SP3283": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3214": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3015": {
+      "n": 7,
+      "frauds": 0
+    },
+    "SP3335": {
+      "n": 8,
+      "frauds": 0
+    },
+    "SP3176": {
+      "n": 7,
+      "frauds": 0
+    },
+    "SP3047": {
+      "n": 5,
+      "frauds": 0
+    },
+    "SP3141": {
+      "n": 10,
+      "frauds": 0
+    },
+    "SP3340": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3318": {
+      "n": 13,
+      "frauds": 5
+    },
+    "SP3301": {
+      "n": 7,
+      "frauds": 0
+    },
+    "SP3190": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3109": {
+      "n": 6,
+      "frauds": 0
+    },
+    "SP3043": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3041": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3096": {
+      "n": 6,
+      "frauds": 0
+    },
+    "SP3142": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3009": {
+      "n": 8,
+      "frauds": 0
+    },
+    "SP3016": {
+      "n": 5,
+      "frauds": 0
+    },
+    "SP3024": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3347": {
+      "n": 5,
+      "frauds": 0
+    },
+    "SP3306": {
+      "n": 6,
+      "frauds": 0
+    },
+    "SP3362": {
+      "n": 6,
+      "frauds": 0
+    },
+    "SP3296": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3180": {
+      "n": 5,
+      "frauds": 0
+    },
+    "SP3048": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3134": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3162": {
+      "n": 8,
+      "frauds": 0
+    },
+    "SP3284": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3112": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3223": {
+      "n": 8,
+      "frauds": 0
+    },
+    "SP3266": {
+      "n": 6,
+      "frauds": 0
+    },
+    "SP3279": {
+      "n": 5,
+      "frauds": 0
+    },
+    "SP3328": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3221": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3205": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3244": {
+      "n": 7,
+      "frauds": 0
+    },
+    "SP3285": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3006": {
+      "n": 5,
+      "frauds": 0
+    },
+    "SP3299": {
+      "n": 5,
+      "frauds": 0
+    },
+    "SP3086": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3259": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3319": {
+      "n": 8,
+      "frauds": 3
+    },
+    "SP3017": {
+      "n": 5,
+      "frauds": 0
+    },
+    "SP3138": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3004": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3238": {
+      "n": 5,
+      "frauds": 0
+    },
+    "SP3038": {
+      "n": 7,
+      "frauds": 0
+    },
+    "SP3356": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3101": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3074": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3154": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3010": {
+      "n": 9,
+      "frauds": 0
+    },
+    "SP3241": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3334": {
+      "n": 5,
+      "frauds": 0
+    },
+    "SP3369": {
+      "n": 7,
+      "frauds": 0
+    },
+    "SP3122": {
+      "n": 5,
+      "frauds": 0
+    },
+    "SP3348": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3257": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3339": {
+      "n": 5,
+      "frauds": 0
+    },
+    "SP3192": {
+      "n": 5,
+      "frauds": 0
+    },
+    "SP3068": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3305": {
+      "n": 8,
+      "frauds": 0
+    },
+    "SP3164": {
+      "n": 7,
+      "frauds": 0
+    },
+    "SP3239": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3218": {
+      "n": 6,
+      "frauds": 0
+    },
+    "SP3208": {
+      "n": 7,
+      "frauds": 0
+    },
+    "SP3304": {
+      "n": 7,
+      "frauds": 0
+    },
+    "SP3343": {
+      "n": 7,
+      "frauds": 0
+    },
+    "SP3045": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3072": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3264": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3272": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3133": {
+      "n": 5,
+      "frauds": 0
+    },
+    "SP3181": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3160": {
+      "n": 12,
+      "frauds": 10
+    },
+    "SP3021": {
+      "n": 5,
+      "frauds": 0
+    },
+    "SP3033": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3044": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3337": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3361": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3136": {
+      "n": 5,
+      "frauds": 0
+    },
+    "SP3165": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3373": {
+      "n": 7,
+      "frauds": 0
+    },
+    "SP3202": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3060": {
+      "n": 8,
+      "frauds": 0
+    },
+    "SP3170": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3325": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3104": {
+      "n": 7,
+      "frauds": 0
+    },
+    "SP3123": {
+      "n": 7,
+      "frauds": 0
+    },
+    "SP3082": {
+      "n": 5,
+      "frauds": 0
+    },
+    "SP3098": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3240": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3185": {
+      "n": 5,
+      "frauds": 0
+    },
+    "SP3188": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3220": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3020": {
+      "n": 5,
+      "frauds": 0
+    },
+    "SP3333": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3042": {
+      "n": 8,
+      "frauds": 0
+    },
+    "SP3197": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3139": {
+      "n": 6,
+      "frauds": 0
+    },
+    "SP3011": {
+      "n": 8,
+      "frauds": 0
+    },
+    "SP3051": {
+      "n": 5,
+      "frauds": 0
+    },
+    "SP3377": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3261": {
+      "n": 6,
+      "frauds": 0
+    },
+    "SP3179": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3210": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3120": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3058": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3232": {
+      "n": 12,
+      "frauds": 7
+    },
+    "SP3116": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3144": {
+      "n": 7,
+      "frauds": 0
+    },
+    "SP3163": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3105": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3150": {
+      "n": 11,
+      "frauds": 0
+    },
+    "SP3199": {
+      "n": 7,
+      "frauds": 0
+    },
+    "SP3061": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3358": {
+      "n": 5,
+      "frauds": 0
+    },
+    "SP3216": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3303": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3129": {
+      "n": 9,
+      "frauds": 4
+    },
+    "SP3026": {
+      "n": 7,
+      "frauds": 0
+    },
+    "SP3228": {
+      "n": 5,
+      "frauds": 0
+    },
+    "SP3268": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3250": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3342": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3194": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3317": {
+      "n": 5,
+      "frauds": 0
+    },
+    "SP3258": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3253": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3032": {
+      "n": 7,
+      "frauds": 0
+    },
+    "SP3027": {
+      "n": 6,
+      "frauds": 1
+    },
+    "SP3294": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3025": {
+      "n": 5,
+      "frauds": 0
+    },
+    "SP3091": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3135": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3019": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3012": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3278": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3207": {
+      "n": 6,
+      "frauds": 0
+    },
+    "SP3274": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3248": {
+      "n": 5,
+      "frauds": 0
+    },
+    "SP3125": {
+      "n": 5,
+      "frauds": 0
+    },
+    "SP3178": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3130": {
+      "n": 5,
+      "frauds": 0
+    },
+    "SP3345": {
+      "n": 8,
+      "frauds": 0
+    },
+    "SP3169": {
+      "n": 5,
+      "frauds": 0
+    },
+    "SP3166": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3371": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3187": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3081": {
+      "n": 7,
+      "frauds": 0
+    },
+    "SP3000": {
+      "n": 6,
+      "frauds": 0
+    },
+    "SP3087": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3338": {
+      "n": 6,
+      "frauds": 0
+    },
+    "SP3352": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3080": {
+      "n": 6,
+      "frauds": 0
+    },
+    "SP3364": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3235": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3117": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3177": {
+      "n": 5,
+      "frauds": 0
+    },
+    "SP3121": {
+      "n": 5,
+      "frauds": 1
+    },
+    "SP3201": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3035": {
+      "n": 6,
+      "frauds": 0
+    },
+    "SP3275": {
+      "n": 6,
+      "frauds": 1
+    },
+    "SP3039": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3324": {
+      "n": 5,
+      "frauds": 0
+    },
+    "SP3115": {
+      "n": 5,
+      "frauds": 0
+    },
+    "SP3327": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3099": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3030": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3375": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3267": {
+      "n": 5,
+      "frauds": 0
+    },
+    "SP3336": {
+      "n": 6,
+      "frauds": 0
+    },
+    "SP3088": {
+      "n": 6,
+      "frauds": 0
+    },
+    "SP3227": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3330": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3233": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3281": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3209": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3171": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3148": {
+      "n": 5,
+      "frauds": 0
+    },
+    "SP3230": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3094": {
+      "n": 7,
+      "frauds": 0
+    },
+    "SP3217": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3054": {
+      "n": 6,
+      "frauds": 0
+    },
+    "SP3173": {
+      "n": 5,
+      "frauds": 0
+    },
+    "SP3326": {
+      "n": 6,
+      "frauds": 0
+    },
+    "SP3113": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3167": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3073": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3089": {
+      "n": 6,
+      "frauds": 0
+    },
+    "SP3247": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3111": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3332": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3050": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3137": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3036": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3001": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3193": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3222": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3378": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3198": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3023": {
+      "n": 8,
+      "frauds": 0
+    },
+    "SP3262": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3269": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3320": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3195": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3078": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3059": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3323": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3355": {
+      "n": 6,
+      "frauds": 0
+    },
+    "SP3295": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3312": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3075": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3215": {
+      "n": 5,
+      "frauds": 0
+    },
+    "SP3147": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3093": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3291": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3349": {
+      "n": 6,
+      "frauds": 0
+    },
+    "SP3242": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3263": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3353": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3103": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3351": {
+      "n": 6,
+      "frauds": 0
+    },
+    "SP3379": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3293": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3224": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3302": {
+      "n": 9,
+      "frauds": 0
+    },
+    "SP3245": {
+      "n": 7,
+      "frauds": 0
+    },
+    "SP3172": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3002": {
+      "n": 5,
+      "frauds": 0
+    },
+    "SP3064": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3310": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3292": {
+      "n": 6,
+      "frauds": 0
+    },
+    "SP3161": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3226": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3110": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3211": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3374": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3146": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3028": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3249": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3065": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3212": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3070": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3271": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3298": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3052": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3131": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3095": {
+      "n": 7,
+      "frauds": 0
+    },
+    "SP3350": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3372": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3309": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3359": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3174": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3049": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3097": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3155": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3005": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3013": {
+      "n": 5,
+      "frauds": 0
+    },
+    "SP3034": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3040": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3289": {
+      "n": 5,
+      "frauds": 0
+    },
+    "SP3234": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3256": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3158": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3055": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3290": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3077": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3203": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3071": {
+      "n": 6,
+      "frauds": 0
+    },
+    "SP3159": {
+      "n": 5,
+      "frauds": 0
+    },
+    "SP3067": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3124": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3151": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3008": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3341": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3132": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3062": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3126": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3366": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3329": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3152": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3246": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3128": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3168": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3265": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3276": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3331": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3056": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3321": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3145": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3251": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3083": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3363": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3213": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3057": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3367": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3107": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3315": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3376": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3018": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3063": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3255": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3370": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3277": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3282": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3237": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3031": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3219": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3102": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3186": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3085": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3260": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3127": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3354": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3270": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3003": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3084": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3200": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3182": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3100": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3118": {
+      "n": 2,
+      "frauds": 2
+    },
+    "SP3014": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3149": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3156": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3243": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3286": {
+      "n": 2,
+      "frauds": 2
+    },
+    "SP3297": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3092": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3280": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3273": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3254": {
+      "n": 1,
+      "frauds": 0
+    }
+  },
+  "buckets": {
+    "below_cutoff": {
+      "n": 986,
+      "frauds": 25
+    },
+    "inspection_required": {
+      "n": 337,
+      "frauds": 1
+    },
+    "near_cutoff": {
+      "n": 99,
+      "frauds": 10
+    }
+  },
+  "cells": {
+    "SP3143|below_cutoff": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3022|below_cutoff": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3365|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3153|below_cutoff": {
+      "n": 5,
+      "frauds": 0
+    },
+    "SP3007|below_cutoff": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3119|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3314|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3079|inspection_required": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3140|below_cutoff": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3175|below_cutoff": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3022|inspection_required": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3322|below_cutoff": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3189|below_cutoff": {
+      "n": 5,
+      "frauds": 0
+    },
+    "SP3114|below_cutoff": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3231|inspection_required": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3066|below_cutoff": {
+      "n": 5,
+      "frauds": 0
+    },
+    "SP3308|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3029|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3288|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3183|inspection_required": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3196|below_cutoff": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3360|below_cutoff": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3313|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3108|below_cutoff": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3053|below_cutoff": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3368|below_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3157|below_cutoff": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3069|below_cutoff": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3106|below_cutoff": {
+      "n": 5,
+      "frauds": 0
+    },
+    "SP3283|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3214|inspection_required": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3015|below_cutoff": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3335|below_cutoff": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3176|below_cutoff": {
+      "n": 6,
+      "frauds": 0
+    },
+    "SP3047|below_cutoff": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3141|below_cutoff": {
+      "n": 9,
+      "frauds": 0
+    },
+    "SP3340|below_cutoff": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3318|below_cutoff": {
+      "n": 7,
+      "frauds": 2
+    },
+    "SP3301|below_cutoff": {
+      "n": 6,
+      "frauds": 0
+    },
+    "SP3190|below_cutoff": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3109|inspection_required": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3043|below_cutoff": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3041|below_cutoff": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3096|below_cutoff": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3142|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3009|inspection_required": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3016|below_cutoff": {
+      "n": 5,
+      "frauds": 0
+    },
+    "SP3024|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3347|inspection_required": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3306|inspection_required": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3362|below_cutoff": {
+      "n": 5,
+      "frauds": 0
+    },
+    "SP3296|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3180|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3048|below_cutoff": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3134|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3162|below_cutoff": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3284|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3112|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3223|inspection_required": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3266|below_cutoff": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3279|below_cutoff": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3328|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3221|below_cutoff": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3205|below_cutoff": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3244|inspection_required": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3285|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3006|inspection_required": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3299|inspection_required": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3086|below_cutoff": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3259|below_cutoff": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3319|below_cutoff": {
+      "n": 5,
+      "frauds": 2
+    },
+    "SP3017|below_cutoff": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3138|below_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3004|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3238|inspection_required": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3038|inspection_required": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3356|below_cutoff": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3101|below_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3074|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3154|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3010|inspection_required": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3241|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3334|below_cutoff": {
+      "n": 5,
+      "frauds": 0
+    },
+    "SP3369|inspection_required": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3283|below_cutoff": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3122|below_cutoff": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3348|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3257|inspection_required": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3339|below_cutoff": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3192|below_cutoff": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3068|below_cutoff": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3305|inspection_required": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3164|inspection_required": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3239|inspection_required": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3218|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3208|near_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3304|below_cutoff": {
+      "n": 5,
+      "frauds": 0
+    },
+    "SP3343|below_cutoff": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3045|inspection_required": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3072|below_cutoff": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3264|below_cutoff": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3272|below_cutoff": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3133|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3181|below_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3160|below_cutoff": {
+      "n": 9,
+      "frauds": 8
+    },
+    "SP3021|below_cutoff": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3033|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3044|below_cutoff": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3337|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3361|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3136|below_cutoff": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3165|below_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3373|inspection_required": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3202|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3060|below_cutoff": {
+      "n": 7,
+      "frauds": 0
+    },
+    "SP3170|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3325|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3104|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3123|below_cutoff": {
+      "n": 6,
+      "frauds": 0
+    },
+    "SP3082|near_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3098|below_cutoff": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3240|below_cutoff": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3185|below_cutoff": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3038|below_cutoff": {
+      "n": 5,
+      "frauds": 0
+    },
+    "SP3188|below_cutoff": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3220|below_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3020|below_cutoff": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3333|inspection_required": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3119|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3042|inspection_required": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3197|near_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3139|below_cutoff": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3011|below_cutoff": {
+      "n": 7,
+      "frauds": 0
+    },
+    "SP3024|near_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3051|below_cutoff": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3377|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3261|inspection_required": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3179|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3183|below_cutoff": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3210|near_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3120|below_cutoff": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3058|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3232|near_cutoff": {
+      "n": 4,
+      "frauds": 4
+    },
+    "SP3116|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3144|below_cutoff": {
+      "n": 6,
+      "frauds": 0
+    },
+    "SP3319|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3163|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3165|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3105|inspection_required": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3150|inspection_required": {
+      "n": 6,
+      "frauds": 0
+    },
+    "SP3199|near_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3061|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3358|below_cutoff": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3216|below_cutoff": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3303|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3129|below_cutoff": {
+      "n": 7,
+      "frauds": 4
+    },
+    "SP3082|inspection_required": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3026|below_cutoff": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3228|below_cutoff": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3305|below_cutoff": {
+      "n": 5,
+      "frauds": 0
+    },
+    "SP3268|near_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3250|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3342|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3194|below_cutoff": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3180|near_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3373|below_cutoff": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3015|near_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3317|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3258|below_cutoff": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3253|below_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3032|below_cutoff": {
+      "n": 5,
+      "frauds": 0
+    },
+    "SP3027|below_cutoff": {
+      "n": 6,
+      "frauds": 1
+    },
+    "SP3294|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3134|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3025|below_cutoff": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3091|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3135|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3011|near_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3019|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3157|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3012|below_cutoff": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3318|near_cutoff": {
+      "n": 3,
+      "frauds": 3
+    },
+    "SP3278|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3207|below_cutoff": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3274|below_cutoff": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3248|below_cutoff": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3125|below_cutoff": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3178|below_cutoff": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3244|below_cutoff": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3130|inspection_required": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3362|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3345|inspection_required": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3169|below_cutoff": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3166|below_cutoff": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3371|below_cutoff": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3185|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3187|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3081|below_cutoff": {
+      "n": 5,
+      "frauds": 0
+    },
+    "SP3000|below_cutoff": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3087|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3338|below_cutoff": {
+      "n": 5,
+      "frauds": 0
+    },
+    "SP3304|inspection_required": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3345|below_cutoff": {
+      "n": 5,
+      "frauds": 0
+    },
+    "SP3352|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3104|below_cutoff": {
+      "n": 6,
+      "frauds": 0
+    },
+    "SP3080|below_cutoff": {
+      "n": 6,
+      "frauds": 0
+    },
+    "SP3364|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3006|below_cutoff": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3197|below_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3017|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3125|inspection_required": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3235|below_cutoff": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3268|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3306|below_cutoff": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3117|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3177|below_cutoff": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3121|inspection_required": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3026|inspection_required": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3201|near_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3035|below_cutoff": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3275|below_cutoff": {
+      "n": 5,
+      "frauds": 0
+    },
+    "SP3039|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3324|below_cutoff": {
+      "n": 5,
+      "frauds": 0
+    },
+    "SP3115|below_cutoff": {
+      "n": 5,
+      "frauds": 0
+    },
+    "SP3208|below_cutoff": {
+      "n": 5,
+      "frauds": 0
+    },
+    "SP3042|near_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3327|inspection_required": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3099|below_cutoff": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3169|near_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3030|below_cutoff": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3369|below_cutoff": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3210|below_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3375|inspection_required": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3267|below_cutoff": {
+      "n": 5,
+      "frauds": 0
+    },
+    "SP3336|inspection_required": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3088|inspection_required": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3227|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3187|near_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3330|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3169|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3266|inspection_required": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3233|near_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3281|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3096|inspection_required": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3175|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3209|inspection_required": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3171|below_cutoff": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3148|below_cutoff": {
+      "n": 5,
+      "frauds": 0
+    },
+    "SP3230|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3284|inspection_required": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3094|near_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3217|below_cutoff": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3054|inspection_required": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3173|inspection_required": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3326|below_cutoff": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3113|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3167|below_cutoff": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3073|below_cutoff": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3089|below_cutoff": {
+      "n": 5,
+      "frauds": 0
+    },
+    "SP3247|near_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3111|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3332|inspection_required": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3050|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3137|below_cutoff": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3150|below_cutoff": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3036|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3001|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3193|near_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3222|below_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3036|below_cutoff": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3378|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3198|near_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3023|inspection_required": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3262|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3269|below_cutoff": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3320|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3195|below_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3078|below_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3337|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3059|below_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3323|inspection_required": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3319|near_cutoff": {
+      "n": 2,
+      "frauds": 1
+    },
+    "SP3355|below_cutoff": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3295|below_cutoff": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3019|inspection_required": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3312|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3075|below_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3215|below_cutoff": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3112|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3147|near_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3093|near_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3291|inspection_required": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3199|below_cutoff": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3349|below_cutoff": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3047|near_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3242|below_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3263|near_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3223|below_cutoff": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3353|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3279|inspection_required": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3103|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3351|below_cutoff": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3379|below_cutoff": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3293|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3339|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3224|below_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3163|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3069|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3302|inspection_required": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3245|inspection_required": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3172|near_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3002|below_cutoff": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3325|below_cutoff": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3064|below_cutoff": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3302|below_cutoff": {
+      "n": 7,
+      "frauds": 0
+    },
+    "SP3218|inspection_required": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3245|below_cutoff": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3310|below_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3292|below_cutoff": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3326|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3161|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3226|inspection_required": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3110|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3211|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3268|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3374|below_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3239|below_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3322|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3146|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3000|inspection_required": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3028|near_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3312|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3231|below_cutoff": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3249|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3065|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3172|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3139|near_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3212|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3070|below_cutoff": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3355|inspection_required": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3330|near_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3271|below_cutoff": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3310|near_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3298|below_cutoff": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3103|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3052|below_cutoff": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3133|below_cutoff": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3278|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3131|below_cutoff": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3095|below_cutoff": {
+      "n": 5,
+      "frauds": 0
+    },
+    "SP3350|below_cutoff": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3294|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3266|near_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3042|below_cutoff": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3160|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3199|inspection_required": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3263|below_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3109|below_cutoff": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3372|below_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3309|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3094|below_cutoff": {
+      "n": 5,
+      "frauds": 0
+    },
+    "SP3359|inspection_required": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3121|below_cutoff": {
+      "n": 3,
+      "frauds": 1
+    },
+    "SP3174|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3049|below_cutoff": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3323|below_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3368|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3023|below_cutoff": {
+      "n": 5,
+      "frauds": 0
+    },
+    "SP3097|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3175|near_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3155|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3005|below_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3013|below_cutoff": {
+      "n": 5,
+      "frauds": 0
+    },
+    "SP3034|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3040|below_cutoff": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3289|below_cutoff": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3227|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3093|below_cutoff": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3162|inspection_required": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3089|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3239|near_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3234|below_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3039|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3327|below_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3181|inspection_required": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3247|below_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3120|near_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3256|below_cutoff": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3158|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3136|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3054|below_cutoff": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3055|below_cutoff": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3091|below_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3290|below_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3358|inspection_required": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3077|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3009|below_cutoff": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3203|below_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3232|below_cutoff": {
+      "n": 6,
+      "frauds": 3
+    },
+    "SP3130|below_cutoff": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3257|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3170|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3336|below_cutoff": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3263|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3015|inspection_required": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3071|near_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3159|inspection_required": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3359|near_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3141|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3067|below_cutoff": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3261|below_cutoff": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3124|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3318|inspection_required": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3151|below_cutoff": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3142|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3007|near_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3288|near_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3124|below_cutoff": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3008|below_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3341|below_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3159|below_cutoff": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3051|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3132|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3228|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3189|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3244|near_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3062|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3126|below_cutoff": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3366|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3329|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3353|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3335|inspection_required": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3201|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3152|below_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3193|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3058|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3291|below_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3246|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3378|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3079|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3196|near_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3140|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3144|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3088|below_cutoff": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3062|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3160|near_cutoff": {
+      "n": 2,
+      "frauds": 2
+    },
+    "SP3155|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3106|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3071|below_cutoff": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3029|inspection_required": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3087|inspection_required": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3192|inspection_required": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3128|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3176|near_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3232|inspection_required": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3168|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3209|below_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3265|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3276|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3150|near_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3331|below_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3166|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3056|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3045|near_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3215|near_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3321|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3212|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3242|near_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3293|near_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3128|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3045|below_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3203|near_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3164|below_cutoff": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3135|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3173|below_cutoff": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3145|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3251|near_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3007|inspection_required": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3341|near_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3351|inspection_required": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3342|inspection_required": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3060|near_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3053|inspection_required": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3083|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3050|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3363|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3153|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3207|inspection_required": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3293|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3213|below_cutoff": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3343|inspection_required": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3057|below_cutoff": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3333|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3367|near_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3071|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3001|below_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3107|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3315|below_cutoff": {
+      "n": 4,
+      "frauds": 0
+    },
+    "SP3105|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3088|near_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3065|near_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3133|near_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3020|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3376|below_cutoff": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3018|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3063|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3177|near_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3255|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3296|below_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3251|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3370|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3009|near_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3205|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3241|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3108|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3198|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3109|near_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3349|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3360|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3277|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3317|near_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3370|below_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3070|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3282|inspection_required": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3226|below_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3126|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3237|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3010|near_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3031|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3219|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3301|near_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3081|near_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3147|below_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3234|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3152|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3208|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3249|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3168|below_cutoff": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3102|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3347|below_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3178|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3186|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3010|below_cutoff": {
+      "n": 5,
+      "frauds": 0
+    },
+    "SP3032|inspection_required": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3222|near_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3248|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3186|below_cutoff": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3116|below_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3136|near_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3190|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3345|near_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3085|near_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3179|inspection_required": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3097|inspection_required": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3260|below_cutoff": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3129|near_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3140|near_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3247|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3292|near_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3332|below_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3238|below_cutoff": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3127|below_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3326|near_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3012|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3101|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3335|near_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3349|near_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3094|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3062|near_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3111|below_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3215|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3025|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3317|below_cutoff": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3274|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3262|below_cutoff": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3162|near_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3354|near_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3082|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3296|near_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3193|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3288|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3270|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3367|below_cutoff": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3003|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3201|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3084|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3200|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3213|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3299|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3230|inspection_required": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3182|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3107|inspection_required": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3100|below_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3116|near_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3031|near_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3018|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3056|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3375|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3028|below_cutoff": {
+      "n": 3,
+      "frauds": 0
+    },
+    "SP3118|below_cutoff": {
+      "n": 2,
+      "frauds": 2
+    },
+    "SP3014|near_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3146|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3021|near_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3233|below_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3350|near_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3149|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3095|inspection_required": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3055|near_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3139|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3321|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3033|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3081|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3338|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3002|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3156|below_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3123|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3282|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3220|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3292|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3180|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3270|below_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3114|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3289|near_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3277|below_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3243|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3237|below_cutoff": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3286|below_cutoff": {
+      "n": 2,
+      "frauds": 2
+    },
+    "SP3008|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3174|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3347|near_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3372|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3275|inspection_required": {
+      "n": 1,
+      "frauds": 1
+    },
+    "SP3377|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3297|below_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3297|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3092|below_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3280|below_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3035|inspection_required": {
+      "n": 2,
+      "frauds": 0
+    },
+    "SP3246|near_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3273|below_cutoff": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3260|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3210|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3254|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3122|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    },
+    "SP3331|inspection_required": {
+      "n": 1,
+      "frauds": 0
+    }
+  }
+}

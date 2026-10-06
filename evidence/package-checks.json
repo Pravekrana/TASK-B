@@ -1,0 +1,8 @@
+{
+  "public_demo_passed": true,
+  "actual_http_health_passed": true,
+  "actual_http_prediction_passed": true,
+  "private_recording_completed": false,
+  "public_github_published": false,
+  "public_drive_published": false
+}

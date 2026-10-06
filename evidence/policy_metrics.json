@@ -1,0 +1,52 @@
+{
+  "evaluation_status": "Exploratory: May/June baseline failure and June outcomes were inspected before this redesign. Not a pristine holdout or prospective evidence.",
+  "fit_month": "May 2026",
+  "fit_n": 709,
+  "fit_frauds": 14,
+  "june_replay": {
+    "n": 713,
+    "frauds": 22,
+    "prevalence": 0.030855539971949508,
+    "roc_auc": 0.9348112090514406,
+    "average_precision": 0.6051363353860242,
+    "brier": 0.0187224517251337,
+    "log_loss": 0.07551125324295699,
+    "accuracy_at_0_5": 0.9747545582047685,
+    "always_genuine_accuracy": 0.9691444600280504,
+    "confusion_at_0_5": [
+      [
+        688,
+        3
+      ],
+      [
+        15,
+        7
+      ]
+    ],
+    "reviewed": 14,
+    "caught": 9,
+    "genuine_delayed": 5,
+    "review_precision": 0.6428571428571429,
+    "fraud_recall": 0.4090909090909091,
+    "net_savings_inr": 7896.0,
+    "net_savings_monthly_inr": 7896.0,
+    "ap_bootstrap_95": [
+      0.4046618379829315,
+      0.7725822959586419
+    ],
+    "roc_auc_bootstrap_95": [
+      0.8612840888632476,
+      0.9840362349914236
+    ],
+    "fixed_decision_savings_bootstrap_95": [
+      328.225,
+      16696.1
+    ]
+  },
+  "final_fit_n": 1422,
+  "final_fit_frauds": 36,
+  "prior_strength_partner": 3,
+  "prior_strength_band": 3,
+  "band_cutoff_inr": 1950,
+  "score_interpretation": "Smoothed observed fraud frequency; uncertain and potentially selection-biased. Validate prospectively before intervention."
+}

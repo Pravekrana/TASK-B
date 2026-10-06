@@ -1,0 +1,64 @@
+{
+  "model_version": "policy-bayes-v2",
+  "depth": 5,
+  "features": [
+    "days_since_purchase",
+    "claim_amount_inr",
+    "customer_prior_claims",
+    "amount_price_ratio",
+    "warranty_age_ratio",
+    "serial_prior_claims",
+    "serial_prior_partners",
+    "serial_valid",
+    "under_auto_approval_limit",
+    "post_policy",
+    "missing_photo",
+    "sku",
+    "family",
+    "photo_attached",
+    "partner_inspected",
+    "partner_type",
+    "city"
+  ],
+  "training_cutoff": "2026-06-30 23:40",
+  "history_cutoff": "2026-06-30 23:40",
+  "holdout": {
+    "n": 1422,
+    "frauds": 36,
+    "prevalence": 0.02531645569620253,
+    "roc_auc": 0.6137966971300305,
+    "average_precision": 0.03514557509183555,
+    "brier": 0.02702322925811814,
+    "log_loss": 0.1433529140494748,
+    "accuracy_at_0_5": 0.9718706047819972,
+    "always_genuine_accuracy": 0.9746835443037974,
+    "confusion_at_0_5": [
+      [
+        1382,
+        4
+      ],
+      [
+        36,
+        0
+      ]
+    ],
+    "reviewed": 13,
+    "caught": 0,
+    "genuine_delayed": 13,
+    "review_precision": 0.0,
+    "fraud_recall": 0.0,
+    "net_savings_inr": -8320.0,
+    "net_savings_monthly_inr": -4160.0,
+    "roc_auc_bootstrap_95": [
+      0.5332819630362031,
+      0.6912326776970655
+    ],
+    "ap_bootstrap_95": [
+      0.02445731891117603,
+      0.06104529151404165
+    ]
+  },
+  "deployment_mode": "shadow_only",
+  "policy_fit_start": "2026-05-01",
+  "evaluation_status": "Exploratory: May/June baseline failure and June outcomes were inspected before this redesign. Not a pristine holdout or prospective evidence."
+}

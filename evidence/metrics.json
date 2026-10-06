@@ -1,0 +1,234 @@
+{
+  "audit": {
+    "raw_rows": 12029,
+    "unique_claims": 11348,
+    "duplicate_rows_removed": 681,
+    "undecided_unique": 202,
+    "labelled_unique": 11146,
+    "fraud_unique": 141,
+    "conflicting_labels": 0,
+    "embedded_instruction_rows": 5,
+    "missing_email_thread": true,
+    "train_cutoff": "2026-06-30 23:40",
+    "test_rows": 2252,
+    "unknown_test_partners": 0,
+    "unknown_test_skus": 0,
+    "test_negative_partner_age": 0,
+    "runtime_seconds": 418.1
+  },
+  "development": [
+    {
+      "name": "catboost_depth_3",
+      "n": 2871,
+      "frauds": 31,
+      "prevalence": 0.01079763148728666,
+      "roc_auc": 0.7963880054520672,
+      "average_precision": 0.4960036947156321,
+      "brier": 0.007403510613302285,
+      "log_loss": 0.03824527804381733,
+      "accuracy_at_0_5": 0.9909439219784048,
+      "always_genuine_accuracy": 0.9892023685127134,
+      "confusion_at_0_5": [
+        [
+          2839,
+          1
+        ],
+        [
+          25,
+          6
+        ]
+      ],
+      "reviewed": 35,
+      "caught": 15,
+      "genuine_delayed": 20,
+      "review_precision": 0.42857142857142855,
+      "fraud_recall": 0.4838709677419355,
+      "net_savings_inr": 108952.0,
+      "net_savings_monthly_inr": 27238.0
+    },
+    {
+      "name": "catboost_depth_5",
+      "n": 2871,
+      "frauds": 31,
+      "prevalence": 0.01079763148728666,
+      "roc_auc": 0.816821899136756,
+      "average_precision": 0.5085272252060896,
+      "brier": 0.007248837248891756,
+      "log_loss": 0.03749054196083827,
+      "accuracy_at_0_5": 0.9916405433646813,
+      "always_genuine_accuracy": 0.9892023685127134,
+      "confusion_at_0_5": [
+        [
+          2840,
+          0
+        ],
+        [
+          24,
+          7
+        ]
+      ],
+      "reviewed": 32,
+      "caught": 15,
+      "genuine_delayed": 17,
+      "review_precision": 0.46875,
+      "fraud_recall": 0.4838709677419355,
+      "net_savings_inr": 118454.0,
+      "net_savings_monthly_inr": 29613.5
+    },
+    {
+      "name": "age_ablation_depth_3",
+      "n": 2871,
+      "frauds": 31,
+      "prevalence": 0.01079763148728666,
+      "roc_auc": 0.837335302135393,
+      "average_precision": 0.5016807191616999,
+      "brier": 0.007284412951490235,
+      "log_loss": 0.03726844376820376,
+      "accuracy_at_0_5": 0.9916405433646813,
+      "always_genuine_accuracy": 0.9892023685127134,
+      "confusion_at_0_5": [
+        [
+          2840,
+          0
+        ],
+        [
+          24,
+          7
+        ]
+      ],
+      "reviewed": 39,
+      "caught": 16,
+      "genuine_delayed": 23,
+      "review_precision": 0.41025641025641024,
+      "fraud_recall": 0.5161290322580645,
+      "net_savings_inr": 118292.0,
+      "net_savings_monthly_inr": 29573.0
+    }
+  ],
+  "chosen_depth": 5,
+  "holdout": {
+    "n": 1422,
+    "frauds": 36,
+    "prevalence": 0.02531645569620253,
+    "roc_auc": 0.6137966971300305,
+    "average_precision": 0.03514557509183555,
+    "brier": 0.02702322925811814,
+    "log_loss": 0.1433529140494748,
+    "accuracy_at_0_5": 0.9718706047819972,
+    "always_genuine_accuracy": 0.9746835443037974,
+    "confusion_at_0_5": [
+      [
+        1382,
+        4
+      ],
+      [
+        36,
+        0
+      ]
+    ],
+    "reviewed": 13,
+    "caught": 0,
+    "genuine_delayed": 13,
+    "review_precision": 0.0,
+    "fraud_recall": 0.0,
+    "net_savings_inr": -8320.0,
+    "net_savings_monthly_inr": -4160.0,
+    "roc_auc_bootstrap_95": [
+      0.5332819630362031,
+      0.6912326776970655
+    ],
+    "ap_bootstrap_95": [
+      0.02445731891117603,
+      0.06104529151404165
+    ]
+  },
+  "holdout_months": [
+    {
+      "month": "2026-05",
+      "n": 709,
+      "frauds": 14,
+      "prevalence": 0.019746121297602257,
+      "roc_auc": 0.5654676258992806,
+      "average_precision": 0.025479705430132747,
+      "brier": 0.02023208710158075,
+      "log_loss": 0.11439211055421053,
+      "accuracy_at_0_5": 0.9802538787023978,
+      "always_genuine_accuracy": 0.9802538787023978,
+      "confusion_at_0_5": [
+        [
+          695,
+          0
+        ],
+        [
+          14,
+          0
+        ]
+      ],
+      "reviewed": 3,
+      "caught": 0,
+      "genuine_delayed": 3,
+      "review_precision": 0.0,
+      "fraud_recall": 0.0,
+      "net_savings_inr": -1920.0,
+      "net_savings_monthly_inr": -1920.0
+    },
+    {
+      "month": "2026-06",
+      "n": 713,
+      "frauds": 22,
+      "prevalence": 0.030855539971949508,
+      "roc_auc": 0.6366925404552033,
+      "average_precision": 0.04735379710997509,
+      "brier": 0.03377627244042531,
+      "log_loss": 0.17215124459385395,
+      "accuracy_at_0_5": 0.9635343618513323,
+      "always_genuine_accuracy": 0.9691444600280504,
+      "confusion_at_0_5": [
+        [
+          687,
+          4
+        ],
+        [
+          22,
+          0
+        ]
+      ],
+      "reviewed": 10,
+      "caught": 0,
+      "genuine_delayed": 10,
+      "review_precision": 0.0,
+      "fraud_recall": 0.0,
+      "net_savings_inr": -6400.0,
+      "net_savings_monthly_inr": -6400.0
+    }
+  ],
+  "features": [
+    "days_since_purchase",
+    "claim_amount_inr",
+    "customer_prior_claims",
+    "amount_price_ratio",
+    "warranty_age_ratio",
+    "serial_prior_claims",
+    "serial_prior_partners",
+    "serial_valid",
+    "under_auto_approval_limit",
+    "post_policy",
+    "missing_photo",
+    "sku",
+    "family",
+    "photo_attached",
+    "partner_inspected",
+    "partner_type",
+    "city"
+  ],
+  "fit_n": 6853,
+  "validation_n": 2871,
+  "pre_holdout_fit_n": 9724,
+  "final_fit_n": 11146,
+  "review_assumptions": {
+    "capacity_per_month": 40,
+    "genuine_delay_inr": 380,
+    "contact_per_review_inr": 260,
+    "fraud_block_success": 1.0
+  }
+}
